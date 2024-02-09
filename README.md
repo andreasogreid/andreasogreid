@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andreasogreid
 - 👀 I’m interested in learning C# and the Revit API
-- 🌱 I’m currently learning Backend development with Node
+- 🌱 I’m currently learning Backend development with NodeJS with ExpressJS and SQL.
 - 📫 How to reach me: [LinkedIn](https://no.linkedin.com/in/andreasogreid)
 
 
